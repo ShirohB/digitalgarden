@@ -10,3 +10,6 @@ Ex. After buying a bike, you wanna get riding gear, a helmet,  a bottle holder, 
 
 
 “Conversely, we’ll be able to get rid of a lot of items at once if we dispose of the initial source.”
+
+###### RELATED
+[The golden rule](The%20golden%20rule.md)
