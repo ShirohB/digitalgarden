@@ -3,7 +3,7 @@
 ---
 
 #### Goodbye, Things: on minimalist living 
-###### By Fumio Sasaki
+### By Fumio Sasaki
 
 
 #### SUMMARY
