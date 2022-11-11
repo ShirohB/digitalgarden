@@ -15,8 +15,8 @@ Minimalism is a journey beyond the simplification of life and reduction of posse
 6. [[Minimalism/Useful guides to minimalism/Differentiate between wants and needs.\|Differentiate between wants and needs.]] 
 7. [[Minimalism/Useful guides to minimalism/Go digital.\|Go digital.]] 
 8. [[Minimalism/Useful guides to minimalism/Organizing is not minimizing.\|Organizing is not minimizing.]] 
-9. Don’t feel like you need to fill every empty space.
-10. Don’t keep it coz you think you’ll need it someday. If you don’t need it today, you probably won’t in future.
+9. **Don’t feel like you need to fill every empty space.**
+10. **Don’t keep it coz you think you’ll need it someday. If you don’t need it today, you probably won’t in future.**
 11. [[Minimalism/Useful guides to minimalism/Get rid of stuff that you already forgot about.\|Get rid of stuff that you already forgot about.]] 
 12. [[Minimalism/Useful guides to minimalism/You’ll probably not get your money’s worth.\|You’ll probably not get your money’s worth.]] 
 13. [[Minimalism/Useful guides to minimalism/Have a balanced view of sentimental attachment.\|Have a balanced view of sentimental attachment.]] 
