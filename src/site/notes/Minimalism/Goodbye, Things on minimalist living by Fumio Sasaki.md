@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/minimalism/goodbye-things-on-minimalist-living-by-fumio-sasaki/"}
 ---
 
+#### Goodbye, Things: on minimalist living 
+###### By Fumio Sasaki
+
 
 #### SUMMARY
 Minimalism is a journey beyond the simplification of life and reduction of possessions. It involves the pursuit of happiness and authenticity. Research shows that the happier people are, the longer they live. Just like it is in that Italian island village - Sardinia. Or even Okinawa, Japan. Minimalism is a mindset that grounds you…it’s contentment. It’s not linear- everyone can find their own kind of minimalism. It’s also not a competition- don’t boast, don’t judge.
