@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/poetry/how-could-hope-be-painful/"}
+{"dg-publish":true,"permalink":"/poetry/how-could-hope-be-painful/","tags":"gardenEntry"}
 ---
 
 How could hope be painful?
