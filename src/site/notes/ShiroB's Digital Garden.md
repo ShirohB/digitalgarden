@@ -4,6 +4,7 @@
 
 
 Where I share what’s between my mind and heart 
+
 ![](Amboseli%20Lookout%20Hill.jpeg)
 
 ##### POETRY FOR THE SOUL
