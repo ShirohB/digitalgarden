@@ -20,3 +20,7 @@ Claiming some loot
 I can’t trail back 
 Forward on route 
 Gotta give hope a chance!
+
+#Hope
+#Grief 
+#Love
