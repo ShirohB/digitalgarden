@@ -3,10 +3,10 @@
 ---
 
 
-SUMMARY
+#### SUMMARY
 Minimalism is a journey beyond the simplification of life and reduction of possessions. It involves the pursuit of happiness and authenticity. Research shows that the happier people are, the longer they live. Just like it is in that Italian island village - Sardinia. Or even Okinawa, Japan. Minimalism is a mindset that grounds you…it’s contentment. It’s not linear- everyone can find their own kind of minimalism. It’s also not a competition- don’t boast, don’t judge.
 
-TIPS I FOUND HELPFUL FOR EMBRACING MINIMALISM
+#### TIPS I FOUND HELPFUL FOR EMBRACING MINIMALISM
 1. [[Focus on the positive, not the loss. \|Focus on the positive, not the loss. ]]
 2. [[Minimalism/Useful guides to minimalism/Find out why it’s hard to part with something.\|Find out why it’s hard to part with something.]] 
 3. [[Minimalism/Useful guides to minimalism/Get rid of something extra right now.\|Get rid of something extra right now.]] 
@@ -28,12 +28,12 @@ TIPS I FOUND HELPFUL FOR EMBRACING MINIMALISM
 
 
 
-[[Minimalism/Quotes that resonate\|Quotes that resonate]]
+###### [[Minimalism/Quotes that resonate\|Quotes that resonate]]
 
 
 #Minimalism #Happiness 
 
-Related reads:
+###### Related reads:
 
 [[Minimalism/Ikigai\|Ikigai]]
 
