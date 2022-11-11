@@ -31,12 +31,12 @@ Minimalism is a journey beyond the simplification of life and reduction of posse
 
 
 
-###### [[Minimalism/Quotes that resonate\|Quotes that resonate]]
+### [[Minimalism/Quotes that resonate\|Quotes that resonate]]
 
 
 #Minimalism #Happiness 
 
-###### Related reads:
+### Related reads:
 
 [[Minimalism/Ikigai\|Ikigai]]
 
