@@ -37,4 +37,4 @@ Minimalism is a journey beyond the simplification of life and reduction of posse
 
 [[Minimalism/Ikigai\|Ikigai]]
 
-[[Minimalism/Wabisabi\|Wabisabi]]
+[[Minimalism/Wabi Sabi\|Wabi Sabi]]
