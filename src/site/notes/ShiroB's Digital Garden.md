@@ -3,9 +3,7 @@
 ---
 
 
-Where I share what’s between my mind and heart 
-
-![](Amboseli%20Lookout%20Hill.jpeg)
+Where I share what’s between my mind and heart ![](Amboseli%20Lookout%20Hill.jpeg)
 
 ##### POETRY FOR THE SOUL
 - [How could hope be painful?](How%20could%20hope%20be%20painful?.md)
