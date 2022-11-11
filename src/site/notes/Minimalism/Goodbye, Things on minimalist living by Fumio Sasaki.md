@@ -38,3 +38,5 @@ Minimalism is a journey beyond the simplification of life and reduction of posse
 [[Minimalism/Ikigai\|Ikigai]]
 
 [[Minimalism/Wabi Sabi\|Wabi Sabi]]
+
+[Africanmoose](https://africanmoose.netlify.app/4x-reading/41-02-reading-book-reviews/the-minimalist-home-a-room-by-room-guide-to-a-decluttered-refocused-life-joshua-becker/)
