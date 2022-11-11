@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/minimalism/goodbye-things-on-minimalist-living-by-fumio-sasaki/"}
 ---
 
-#### Goodbye, Things: on minimalist living 
-### By Fumio Sasaki
+### Goodbye, Things: on minimalist living 
+#### By Fumio Sasaki
 
 
 #### SUMMARY
