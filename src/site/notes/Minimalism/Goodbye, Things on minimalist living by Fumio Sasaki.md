@@ -7,10 +7,10 @@
 Minimalism is a journey beyond the simplification of life and reduction of possessions. It involves the pursuit of happiness and authenticity. Research shows that the happier people are, the longer they live. Just like it is in that Italian island village - Sardinia. Or even Okinawa, Japan. Minimalism is a mindset that grounds you…it’s contentment. It’s not linear- everyone can find their own kind of minimalism. It’s also not a competition- don’t boast, don’t judge.
 
 #### TIPS I FOUND HELPFUL FOR EMBRACING MINIMALISM
-1. [[Focus on the positive, not the loss. \|Focus on the positive, not the loss. ]]
+1. [[Minimalism/Useful guides to minimalism/Focus on the positive, not the loss.\|Focus on the positive, not the loss.]]
 2. [[Minimalism/Useful guides to minimalism/Find out why it’s hard to part with something.\|Find out why it’s hard to part with something.]] 
 3. [[Minimalism/Useful guides to minimalism/Get rid of something extra right now.\|Get rid of something extra right now.]] 
-4. [[Closet clean every year. \|Closet clean every year. ]]
+4. [[Minimalism/Useful guides to minimalism/Closet clean every year.\|Closet clean every year.]]
 5. [[Minimalism/Useful guides to minimalism/There’s no need to keep up appearances.\|There’s no need to keep up appearances.]] 
 6. [[Minimalism/Useful guides to minimalism/Differentiate between wants and needs.\|Differentiate between wants and needs.]] 
 7. [[Minimalism/Useful guides to minimalism/Go digital.\|Go digital.]] 
