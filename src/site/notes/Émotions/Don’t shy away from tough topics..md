@@ -11,6 +11,9 @@ TJ and Ultraviolet would write words on sticky notes. The positive ones go on th
 ### QUOTES:
 “In those moments, none of it matters. It’s like that stuff is happening to someone else because all you feel is dark inside, and that darkness just kind of takes over”
 
+“So it’s good and it’s bad and it hurts, but I like thinking about him. If I think about him, he won’t be completely gone either. Just because they’re dead, they don’t have to be. And neither do we.”
+
+
 Excerpt From
 All the Bright Places
 Jennifer Niven
