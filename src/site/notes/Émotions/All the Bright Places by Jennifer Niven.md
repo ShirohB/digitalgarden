@@ -20,3 +20,9 @@ My running thought is that people rarely ever speak what’s actually on their m
 5. [[Émotions/Make them feel special.\|Make them feel special.]]
 6. [[Émotions/Don’t shy away from tough topics.\|Don’t shy away from tough topics.]]
 7. [[Émotions/Smile\|Smile]] 
+
+### EXPRESSIONS ABOUT GRIEF 
+- [[Émotions/Nothingness\|Nothingness]]
+- [[Émotions/Illusions\|Illusions]]
+- [[Émotions/Helplessness\|Helplessness]]
+- [[Émotions/Hope\|Hope]]
