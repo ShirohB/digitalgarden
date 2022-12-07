@@ -22,10 +22,11 @@ Back Roads- Malindi to Tsavo East
 - [[Poetry/That Friend\|That Friend]]
 
 
-##### CURRENTLY THINKING ABOUT 
-#Minimalism 
-#Happiness 
-#Zettelkasten 
+##### CURRENTLY LEARNING  
+1. How to be a beginner
+2. Guitar 
+3. Japanese Refresher
+4. Painting 
 
 
 #### WIP
