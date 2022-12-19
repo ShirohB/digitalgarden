@@ -2,8 +2,14 @@
 {"dg-publish":true,"permalink":"/learning/beginners-by-vanderbilt-tom/"}
 ---
 
-### NOTES FROM BEGINNERS
+### SUMMARY 
+I feel like this was majorly a book to show the importance of being a novice… putting all biases aside and learning. Not just learning, but also learning how to learn. It goes through the process of learning different skills…clearly defining their similarities and differences. As Tom Vanderbilt put it, “an early lesson in learning: It is context dependent”
 
+### LEARNING HOW TO LEARN
+- [[Learning/Deliberate practice vs mindless repetition\|Deliberate practice vs mindless repetition]] 
+- [[Learning/The fallacy of errorless learning\|The fallacy of errorless learning]] 
+
+### MAJOR TAKE HOME:
 
 1. We all have latent abilities that can be unlocked
 
@@ -22,8 +28,3 @@
 8. Learning skills helps open new worlds.
 
 9. Goals are good, but keep your eyes open for opportunity
-
-All Excerpts From
-
-Vanderbilt, Tom. “Beginners.” Apple Books.   
-This material may be protected by copyright.
