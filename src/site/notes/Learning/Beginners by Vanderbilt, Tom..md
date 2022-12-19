@@ -11,20 +11,20 @@ I feel like this was majorly a book to show the importance of being a novice… 
 
 ### MAJOR TAKE HOME:
 
-1. We all have latent abilities that can be unlocked
+1.We all have latent abilities that can be unlocked
 
-2. Skills take time
+2.Skills take time
 
-3. Failure is an essential part of learning
+3.Failure is an essential part of learning
 
-4. Change up your practice
+4.Change up your practice
 
-5. Your progress may not be linear
+5.Your progress may not be linear
 
-6. Skills rarely “transfer
+6.Skills rarely “transfer
 
-7. Always be on the edge of the impossible.
+7.Always be on the edge of the impossible.
 
-8. Learning skills helps open new worlds.
+8.Learning skills helps open new worlds.
 
-9. Goals are good, but keep your eyes open for opportunity
+9.Goals are good, but keep your eyes open for opportunity
