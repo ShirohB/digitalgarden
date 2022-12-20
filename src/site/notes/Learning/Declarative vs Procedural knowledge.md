@@ -3,7 +3,7 @@
 ---
 
 
-### KNOWING “THAT” vs KNOWING “HOW”
+### KNOWING THAT vs KNOWING HOW
 ##### IDEA:
 declarative knowledge, is called “knowing that”
 
