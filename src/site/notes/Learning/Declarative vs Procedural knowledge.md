@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/learning/declarative-vs-procedural-knowledge/"}
 ---
 
-
 ### KNOWING THAT vs KNOWING HOW
 ##### IDEA:
 declarative knowledge, is called “knowing that”
