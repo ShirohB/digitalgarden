@@ -13,6 +13,7 @@ Tom was hoping to learn a variety of skills not expecting to be a master of any.
 
 “I wanted to make myself more marketable to me”
 
+“As you learn new things, however, you will learn new things about yourself
 
 “I didn’t think I was going to master any of these things. I didn’t have a spare ten thousand hours—the suggested baseline of deliberate practice required to achieve mastery in a field—for anything; I’d be lucky to have a hundred hours for any one skill. In place of mastery, I was hoping for distributed competence.”
 
