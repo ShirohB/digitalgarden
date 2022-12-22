@@ -10,6 +10,8 @@ I feel like this was majorly a book to show the importance of being a novice… 
 - [[Learning/The fallacy of errorless learning\|The fallacy of errorless learning]] 
 - [[Declarative vs Procedural knowledge \|Declarative vs Procedural knowledge ]]
 - [[Learning/Distributed competency\|Distributed competency]] 
+- [[Learning/The extreme neurobiological state\|The extreme neurobiological state]] 
+- Prepare for a [[Learning/steep learning curve\|steep learning curve]] 
 
 ### MAJOR TAKE HOME:
 
@@ -23,7 +25,7 @@ I feel like this was majorly a book to show the importance of being a novice… 
 
 5.Your progress may not be linear
 
-6.Skills rarely “transfer
+6.Skills rarely “transfer”
 
 7.Always be on the edge of the impossible.
 
