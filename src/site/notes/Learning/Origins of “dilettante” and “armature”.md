@@ -9,7 +9,7 @@ That word, which has an almost entirely pejorative meaning today as a hopelessly
 
 What did this loaded word originally signify? 
 
-# “To love,” 
+## “To love,” 
 
 …derived from the French aimer. 
 
