@@ -12,6 +12,9 @@ I feel like this was majorly a book to show the importance of being a novice… 
 - [[Learning/Distributed competency\|Distributed competency]] 
 - [[Learning/The extreme neurobiological state\|The extreme neurobiological state]] 
 - Prepare for a [[Learning/steep learning curve\|steep learning curve]] 
+- Beware of the [[Learning/Dunning-Kruger effect\|Dunning-Kruger effect]] coupled with the [[Learning/Einstellung effect\|Einstellung effect]]
+- [[Learning/Keep the curiosity and naïve optimism\|Keep the curiosity and naïve optimism]]
+- [[Find others at your current skill level \|Find others at your current skill level ]]
 
 ### MAJOR TAKE HOME:
 
@@ -32,3 +35,9 @@ I feel like this was majorly a book to show the importance of being a novice… 
 8.Learning skills helps open new worlds.
 
 9.Goals are good, but keep your eyes open for opportunity
+
+### INTERESTING CONCEPTS 
+
+- Forms of [[Learning/cognitive ability\|cognitive ability]]
+- Thé [[Learning/Big Five\|Big Five]] personality traits
+- [[Learning/Origins of “dilettante” and “armature”\|Origins of “dilettante” and “armature”]] not derogatory 
