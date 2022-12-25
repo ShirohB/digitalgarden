@@ -14,7 +14,9 @@ I feel like this was majorly a book to show the importance of being a novice… 
 - Prepare for a [[Learning/steep learning curve\|steep learning curve]] 
 - Beware of the [[Learning/Dunning-Kruger effect\|Dunning-Kruger effect]] coupled with the [[Learning/Einstellung effect\|Einstellung effect]]
 - [[Learning/Keep the curiosity and naïve optimism\|Keep the curiosity and naïve optimism]]
-- [[Find others at your current skill level \|Find others at your current skill level ]]
+- [[Learning/Find others at your current skill level\|Find others at your current skill level]]
+
+
 
 ### MAJOR TAKE HOME:
 
