@@ -12,7 +12,7 @@ As the art historian Bruce Redford notes, “dilettante”—one who exhibits de
 
 What did this loaded word originally signify? 
 
-###### “To love,” 
+###### “to love,” 
 
 …derived from the French aimer. 
 
