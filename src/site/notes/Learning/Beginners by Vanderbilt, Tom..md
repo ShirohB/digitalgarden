@@ -8,7 +8,7 @@ I feel like this was majorly a book to show the importance of being a novice… 
 ### LEARNING HOW TO LEARN
 - [[Learning/Deliberate practice vs mindless repetition\|Deliberate practice vs mindless repetition]] 
 - [[Learning/The fallacy of errorless learning\|The fallacy of errorless learning]] 
-- [[Declarative vs Procedural knowledge \|Declarative vs Procedural knowledge ]]
+- [[Learning/Declarative vs Procedural knowledge\|Declarative vs Procedural knowledge]]
 - [[Learning/Distributed competency\|Distributed competency]] 
 - [[Learning/The extreme neurobiological state\|The extreme neurobiological state]] 
 - Prepare for a [[Learning/steep learning curve\|steep learning curve]] 
