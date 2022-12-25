@@ -13,8 +13,11 @@ Both Tom and his daughter were beginners in the world of chess. The difference h
 
 “any learning process, requires thoughtful practice”
 
+“As Ravi Kumar, president of the IT giant Infosys, describes it, “You have to learn to learn, learn to unlearn, and learn to re-learn.”
 
-Excerpt From
+
+
+Excerpts From
 Beginners
 Tom Vanderbilt
 This material may be protected by copyright.
