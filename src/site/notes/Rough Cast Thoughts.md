@@ -37,3 +37,4 @@ Long-necked friends in the wild
 - [[Minimalism/Wabi Sabi\|Wabi Sabi]]
 - [[Minimalism/Ikigai\|Ikigai]]
 - [[Émotions/All the Bright Places by Jennifer Niven\|All the Bright Places by Jennifer Niven]]
+- [[Grief/Notes on Grief by Chimamanda Ngozi Adichie\|Notes on Grief by Chimamanda Ngozi Adichie]]
