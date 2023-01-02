@@ -24,19 +24,21 @@ I feel like this was majorly a book to show the importance of being a novice… 
 
 2.Skills take time
 
-3.Failure is an essential part of learning
+3.Failure is an essential part of learning- “Behind every highlight reel is a huge B-roll of mistakes.”
 
-4.Change up your practice
+4.[[Learning/Change up your practice\|Change up your practice]]
 
-5.Your progress may not be linear
+5.Your [[Learning/progress may not be linear\|progress may not be linear]]
 
 6.Skills rarely “transfer”
 
-7.Always be on the edge of the impossible.
+7.Always be on the [[Learning/edge of the impossible\|edge of the impossible]]
 
 8.Learning skills helps open new worlds.
 
-9.Goals are good, but keep your eyes open for opportunity
+9.Goals are good, but keep your eyes open for opportunity- “As you try to learn something, you shouldn’t lose sight of all the interesting little detours along the way.”
+
+
 
 ### INTERESTING CONCEPTS 
 
