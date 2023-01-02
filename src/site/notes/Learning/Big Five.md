@@ -4,10 +4,6 @@
 
 ##### the so-called Big Five personality traits that are said to define us:
 
-Excerpt From
-Beginners
-Tom Vanderbilt
-This material may be protected by copyright.
 - extraversion
 - conscientiousness
 - neuroticism 
