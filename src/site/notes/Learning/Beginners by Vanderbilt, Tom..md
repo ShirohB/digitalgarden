@@ -15,6 +15,7 @@ I feel like this was majorly a book to show the importance of being a novice… 
 - Beware of the [[Learning/Dunning-Kruger effect\|Dunning-Kruger effect]] coupled with the [[Learning/Einstellung effect\|Einstellung effect]]
 - [[Learning/Keep the curiosity and naïve optimism\|Keep the curiosity and naïve optimism]]
 - [[Learning/Find others at your current skill level\|Find others at your current skill level]]
+- Learning is as much about [[Learning/unlearning\|unlearning]] as learning 
 
 
 
