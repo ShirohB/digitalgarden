@@ -8,6 +8,9 @@
 ##### QUOTES
 “Rather than teaching the actual skill needed in riding a bicycle, training wheels simply impart misplaced confidence…Like water wings in swimming, training wheels take away from the actual feeling of riding a bike.”
 
+“It’s going to sound ugly before it sounds pretty,” she said, “but it has to sound ugly.”
+
+
 Excerpt From
 Beginners
 Tom Vanderbilt
