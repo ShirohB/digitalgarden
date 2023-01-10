@@ -18,6 +18,6 @@ This material may be protected by copyright.
 ### RELATED
 [[Learning/Keep the curiosity and naïve optimism\|Keep the curiosity and naïve optimism]]
 
-[[Learning/Deliberate practice vs mindless repetition\|Deliberate practice vs mindless repetition]]
+[[Learning/Deliberate practice instead of mindless repetition\|Deliberate practice instead of mindless repetition]]
 
 [[Learning/The fallacy of errorless learning\|The fallacy of errorless learning]]
