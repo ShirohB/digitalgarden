@@ -20,4 +20,4 @@ This material may be protected by copyright.
 ### RELATED
 [[Learning/Dunning-Kruger effect\|Dunning-Kruger effect]]
 
-[[Learning/Deliberate practice vs mindless repetition\|Deliberate practice vs mindless repetition]]
+[[Learning/Deliberate practice instead of mindless repetition\|Deliberate practice instead of mindless repetition]]
