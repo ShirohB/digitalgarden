@@ -16,6 +16,6 @@ Tom Vanderbilt
 This material may be protected by copyright.
 
 ### RELATED
-[[Learning/Deliberate practice vs mindless repetition\|Deliberate practice vs mindless repetition]]
+[[Learning/Deliberate practice instead of mindless repetition\|Deliberate practice instead of mindless repetition]]
 
 [[Learning/Distributed competency\|Distributed competency]]
