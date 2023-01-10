@@ -6,17 +6,17 @@
 I feel like this was majorly a book to show the importance of being a novice… putting all biases aside and learning. Not just learning, but also learning how to learn. It goes through the process of learning different skills…clearly defining their similarities and differences. As Tom Vanderbilt put it, “an early lesson in learning: It is context dependent”
 
 ### LEARNING HOW TO LEARN
-- [[Learning/Deliberate practice vs mindless repetition\|Deliberate practice vs mindless repetition]] 
-- [[Learning/The fallacy of errorless learning\|The fallacy of errorless learning]] 
-- [[Learning/Declarative vs Procedural knowledge\|Declarative vs Procedural knowledge]]
-- [[Learning/Distributed competency\|Distributed competency]] 
-- [[Learning/The extreme neurobiological state\|The extreme neurobiological state]] 
+- Choose [[Learning/Deliberate practice instead of mindless repetition\|Deliberate practice instead of mindless repetition]] 
+- Beware of [[Learning/The fallacy of errorless learning\|The fallacy of errorless learning]] 
+- Differentiate [[Learning/Declarative vs Procedural knowledge\|Declarative vs Procedural knowledge]]
+- Opt for [[Learning/Distributed competency\|Distributed competency]] 
+- Maximize on [[Learning/The extreme neurobiological state\|The extreme neurobiological state]] 
 - Prepare for a [[Learning/steep learning curve\|steep learning curve]] 
 - Beware of the [[Learning/Dunning-Kruger effect\|Dunning-Kruger effect]] coupled with the [[Learning/Einstellung effect\|Einstellung effect]]
 - [[Learning/Keep the curiosity and naïve optimism\|Keep the curiosity and naïve optimism]]
 - [[Learning/Find others at your current skill level\|Find others at your current skill level]]
 - Learning is as much about [[Learning/unlearning\|unlearning]] as learning 
-
+- Work at [[Learning/Social facilitation\|Social facilitation]] while reducing or eliminating [[Learning/Social loafing\|Social loafing]] 
 
 
 ### MAJOR TAKE HOME:
