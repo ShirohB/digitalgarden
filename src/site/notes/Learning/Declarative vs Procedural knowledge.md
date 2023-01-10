@@ -12,7 +12,7 @@ procedural knowledge is called “knowing how”
 To learn a skill is to move from declarative knowledge of facts to procedural knowledge of action.
 
 ### RELATED:
-[[Learning/Deliberate practice vs mindless repetition\|Deliberate practice vs mindless repetition]]
+[[Learning/Deliberate practice instead of mindless repetition\|Deliberate practice instead of mindless repetition]]
 
 [[Émotions/Explore\|Explore]]
 
