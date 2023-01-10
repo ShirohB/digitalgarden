@@ -14,5 +14,5 @@ Unlearning is hard coz old behaviors tend to linger, never really going away. Th
 
 [[Learning/Change up your practice\|Change up your practice]]
 
-[[Learning/Deliberate practice vs mindless repetition\|Deliberate practice vs mindless repetition]]
+[[Learning/Deliberate practice instead of mindless repetition\|Deliberate practice instead of mindless repetition]]
 
