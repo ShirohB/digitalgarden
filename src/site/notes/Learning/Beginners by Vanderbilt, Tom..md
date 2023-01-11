@@ -16,7 +16,10 @@ I feel like this was majorly a book to show the importance of being a novice… 
 - [[Learning/Keep the curiosity and naïve optimism\|Keep the curiosity and naïve optimism]]
 - [[Learning/Find others at your current skill level\|Find others at your current skill level]]
 - Learning is as much about [[Learning/unlearning\|unlearning]] as learning 
-- Work at [[Learning/Social facilitation\|Social facilitation]] while reducing or eliminating [[Learning/Social loafing\|Social loafing]] 
+- Work at [[Learning/Social facilitation\|Social facilitation]] while reducing or eliminating [[Learning/Social loafing\|Social loafing]]
+- [[Learning/Focus on an external target, not on self\|Focus on an external target, not on self]]
+- Use the knowledge to [[Learning/create habits\|create habits]] 
+- Finally, [[Learning/don’t allow the brain to hold you back!\|don’t allow the brain to hold you back!]]
 
 
 ### MAJOR TAKE HOME:
@@ -45,4 +48,4 @@ I feel like this was majorly a book to show the importance of being a novice… 
 
 - Forms of [[Learning/cognitive ability\|cognitive ability]]
 - Thé [[Learning/Big Five\|Big Five]] personality traits
-- [[Learning/Origins of “dilettante” and “armature”\|Origins of “dilettante” and “armature”]] not derogatory 
+- [[Learning/Origins of "mediocre" “dilettante” and “armature”\|Origins of "mediocre" “dilettante” and “armature”]] not derogatory 
