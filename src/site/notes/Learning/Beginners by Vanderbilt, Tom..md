@@ -48,4 +48,4 @@ I feel like this was majorly a book to show the importance of being a novice… 
 
 - Forms of [[Learning/cognitive ability\|cognitive ability]]
 - Thé [[Learning/Big Five\|Big Five]] personality traits
-- [[Learning/Origins of "mediocre" “dilettante” and “armature”\|Origins of "mediocre" “dilettante” and “armature”]] not derogatory 
+- [[Learning/Origins of médiocre, dilettante and armature\|Origins of médiocre, dilettante and armature]] not derogatory 
