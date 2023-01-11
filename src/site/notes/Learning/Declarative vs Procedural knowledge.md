@@ -11,6 +11,10 @@ procedural knowledge is called “knowing how”
 ##### BEGINNERS TAKE
 To learn a skill is to move from declarative knowledge of facts to procedural knowledge of action.
 
+##### QUOTE 
+“Metacognition—your knowledge of what you know—is a harsh mistress.”
+
+
 ### RELATED:
 [[Learning/Deliberate practice instead of mindless repetition\|Deliberate practice instead of mindless repetition]]
 
