@@ -12,6 +12,10 @@ A steep learning curve doesn’t mean that the task is daunting. It means that t
 
 “A skill may or may not be difficult to learn, but the steepness of the learning curve is actually just a graphical representation of time versus progress. A steep learning curve means you’re climbing faster. And the steepest learning curves come right away.”
 
+“Unmet goals can destroy motivation as much as they drive it”
+
+“Focus on process, not product”
+
 
 Excerpts From
 Beginners
