@@ -21,16 +21,16 @@ Long-necked friends in the wild
 - [[Poetry/Her\|Her]]
 
 
-##### CURRENTLY LEARNING  
-1. How to be a beginner
+##### CURRENTLY LEARNING 
+1. Coding
 2. Guitar 
 3. Japanese Refresher
-4. Painting 
+4. [[Painting\|Painting]] 
 
 
 #### WIP
 - [[Émotions/The Emotionally Sensitive Person-Finding Peace When Emotions Overwhelm You Karyn D. Hall\|The Emotionally Sensitive Person-Finding Peace When Emotions Overwhelm You Karyn D. Hall]]
-- [[Learning/Beginners by Vanderbilt, Tom.\|Beginners by Vanderbilt, Tom.]] 
+
 
 #### BOOKS I’VE READ
 - [[Minimalism/Goodbye, Things on minimalist living by Fumio Sasaki\|Goodbye, Things on minimalist living by Fumio Sasaki]]
@@ -38,3 +38,4 @@ Long-necked friends in the wild
 - [[Minimalism/Ikigai\|Ikigai]]
 - [[Émotions/All the Bright Places by Jennifer Niven\|All the Bright Places by Jennifer Niven]]
 - [[Grief/Notes on Grief by Chimamanda Ngozi Adichie\|Notes on Grief by Chimamanda Ngozi Adichie]]
+- [[Learning/Beginners by Vanderbilt, Tom.\|Beginners by Vanderbilt, Tom.]]
