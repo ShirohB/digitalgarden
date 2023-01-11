@@ -3,10 +3,10 @@
 ---
 
 
-### SUMMARY 
+### IDEA 
 Humans seem to perform better in the presence of others.
 
-##### QUOTES
+##### BEGINNERS TAKE
 “pioneering psychologist Norman Triplett, analyzing the records from bike racing, made a seminal observation about the history of the psychology of performance: Cyclists who raced against competitors, or so-called pacemakers, rode faster than cyclists who rode alone.”
 
 “Surrounded by good singers, I was pushed to up my game. ”
