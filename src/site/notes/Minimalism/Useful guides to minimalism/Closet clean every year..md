@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/minimalism/useful-guides-to-minimalism/closet-clean-every-year/"}
 ---
 
-Discard anything you haven’t used in a year. (Unless it’s go bag stuff. Even that needs regular checking, especially the food) 
+Discard anything you haven’t used in a year. (Unless it’s go bag stuff. Even that needs regular checking, especially the food) Make it a consistent habit.
 
 **QUOTES:**
 
