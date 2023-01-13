@@ -19,6 +19,7 @@ Long-necked friends in the wild
 - [[Poetry/No room for love\|No room for love]]
 - [[Poetry/That Friend\|That Friend]]
 - [[Poetry/Her\|Her]]
+- [[Poetry/Embers\|Embers]]
 
 
 ##### CURRENTLY LEARNING 
