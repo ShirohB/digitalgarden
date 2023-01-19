@@ -20,7 +20,7 @@ Long-necked friends in the wild
 - [[Poetry/That Friend\|That Friend]]
 - [[Poetry/Her\|Her]]
 - [[Poetry/Embers\|Embers]]
-- [[Poetry/BEAUTY\|BEAUTY]]
+- [[Poetry/Beauty\|Beauty]]
 
 
 ##### CURRENTLY LEARNING 
