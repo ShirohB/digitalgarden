@@ -21,6 +21,7 @@ Long-necked friends in the wild
 - [[Poetry/Her\|Her]]
 - [[Poetry/Embers\|Embers]]
 - [[Poetry/Beauty\|Beauty]]
+- [[Zawadi\|Zawadi]]
 
 
 ##### CURRENTLY LEARNING 
