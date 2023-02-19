@@ -17,6 +17,6 @@ The second process inadvertently increases the neural activation of the unwanted
 ### RELATED
 [[Learning/unlearning\|unlearning]]
 
-[[Learning/**self-control conflicts**\|**self-control conflicts**]]
+[[Learning/self-control conflicts\|self-control conflicts]]
 
 [[Minimalism/Useful guides to minimalism/Things tend to bring in more things.\|Things tend to bring in more things.]]
