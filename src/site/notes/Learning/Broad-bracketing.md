@@ -12,6 +12,8 @@ Instead of considering the decision in isolation, consider it as one of many…t
 
 “Suppose this were to be my habit for this behavior, would it still be okay?”
 
+“Whenever you’re faced with temptations, ask yourself a series of ‘why’ questions.”
+
 ### RELATED
 [[Learning/Habits\|Habits]]
 
