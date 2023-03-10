@@ -34,7 +34,7 @@ Different shades of life
 
 #### WIP
 - [[Émotions/The Emotionally Sensitive Person-Finding Peace When Emotions Overwhelm You Karyn D. Hall\|The Emotionally Sensitive Person-Finding Peace When Emotions Overwhelm You Karyn D. Hall]]
-- [[Learning/The Complete Guide to Self-Control by Scott H. Young\|The Complete Guide to Self-Control by Scott H. Young]]
+- [[There Are No Grown-ups by Pamela Druckerman\|There Are No Grown-ups by Pamela Druckerman]]
 
 
 #### BOOKS I’VE READ
@@ -44,3 +44,4 @@ Different shades of life
 - [[Émotions/All the Bright Places by Jennifer Niven\|All the Bright Places by Jennifer Niven]]
 - [[Grief/Notes on Grief by Chimamanda Ngozi Adichie\|Notes on Grief by Chimamanda Ngozi Adichie]]
 - [[Learning/Beginners by Vanderbilt, Tom.\|Beginners by Vanderbilt, Tom.]]
+- [[Learning/The Complete Guide to Self-Control by Scott H. Young\|The Complete Guide to Self-Control by Scott H. Young]]
