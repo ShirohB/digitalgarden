@@ -24,8 +24,8 @@ Different shades of life
 - [[Poetry/Zawadi\|Zawadi]]
 
 
-##### CURRENTLY LEARNING 
-1.  [[Painting\|Painting]] 
+##### CURRENT INTERESTS 
+1. [[Painting\|Painting]] 
 2. [[Scribbles\|Scribbles]]
 
 
