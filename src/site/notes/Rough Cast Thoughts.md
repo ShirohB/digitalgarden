@@ -25,11 +25,8 @@ Different shades of life
 
 
 ##### CURRENTLY LEARNING 
-1. Coding
-2. Guitar 
-3. Japanese Refresher
-4. [[Painting\|Painting]] 
-5. [[Scribbles\|Scribbles]]
+1.  [[Painting\|Painting]] 
+2. [[Scribbles\|Scribbles]]
 
 
 #### WIP
